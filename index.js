@@ -5,4 +5,5 @@
 // import './js/testModul-5-dz.js';
 // import './js/testModul-6-dz.js';
 // import './js/callback.js';
-import './js/calculator.js';
+// import './js/calculator.js';
+// import './js/dom.js';
