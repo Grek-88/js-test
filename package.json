@@ -1,0 +1,25 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pexels": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "parcel src/zanyatie-mentor-19-06-21.html",
+    "build": "parcel build src/zanyatie-mentor-19-06-21.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grek-88/js-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grek-88/js-test/issues"
+  },
+  "homepage": "https://github.com/Grek-88/js-test#readme"
+}
